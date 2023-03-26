@@ -1,0 +1,6 @@
+@import 'colors';
+
+@mixin black-component {
+  background-color: $black-component-background;
+  padding: 30px;
+}
